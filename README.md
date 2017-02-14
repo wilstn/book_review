@@ -12,3 +12,10 @@ Built using Ruby on Rails.
 ## Features
 * Add books for review.
 * Search books to read their reviews.
+
+##To Do List:
+* Improve review system to use raty stars
+* Use average function instead of manually calculating
+* Add default placeholder image for empty pictures
+* Use image panels instead of list?
+* Add search to navbar? and try elastisearch?
